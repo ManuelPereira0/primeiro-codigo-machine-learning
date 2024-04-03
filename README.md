@@ -4,6 +4,8 @@
 
 Meu primeiro código de Machine Learning em python.\n
 Rede de Deep Learning para reconhecer dígitos.
+Meu primeiro código de Machine Learning em python.
+Rede de Deep Learning para reconhecer dígitos.
 
 ### No Linux
 Bibliotecas para serem instaladas:
