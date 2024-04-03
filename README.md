@@ -2,9 +2,7 @@
 
 ## Sobre
 
-Meu primeiro código de Machine Learning em python.\n
-Rede de Deep Learning para reconhecer dígitos.
-Meu primeiro código de Machine Learning em python.
+Meu primeiro código de Machine Learning em python. <br>
 Rede de Deep Learning para reconhecer dígitos.
 
 ### No Linux
